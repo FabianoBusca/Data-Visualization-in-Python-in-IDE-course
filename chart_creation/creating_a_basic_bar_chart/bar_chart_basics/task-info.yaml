@@ -1,7 +1,8 @@
+custom_name: Bar Chart Basics
 type: theory
-custom_name: Basic Dataset Exploration
 files:
   - name: main.py
     visible: true
   - name: __init__.py
-    visible: true
+    visible: false
+    propagatable: false

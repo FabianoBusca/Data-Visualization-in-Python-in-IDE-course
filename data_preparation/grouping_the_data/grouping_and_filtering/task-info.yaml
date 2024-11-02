@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 2015 - T
+    is_correct: false
+  - text: 2014 - M
+    is_correct: true
+  - text: 2020 - E
+    is_correct: false
+  - text: 2014 - E10+
+    is_correct: false
+files:
+  - name: main.py
+    visible: true
+  - name: __init__.py
+    visible: false
+    propagatable: false
+custom_name: Grouping and Filtering
+local_check: true

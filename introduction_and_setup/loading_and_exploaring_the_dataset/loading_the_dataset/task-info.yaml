@@ -1,5 +1,5 @@
-custom_name: Loading the Dataset
 type: theory
+custom_name: Loading the Dataset
 files:
   - name: main.py
     visible: true

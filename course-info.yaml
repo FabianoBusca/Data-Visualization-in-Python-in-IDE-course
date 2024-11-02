@@ -7,3 +7,5 @@ programming_language: Python
 environment: unittest
 content:
   - introduction_and_setup
+  - data_preparation
+  - chart_creation

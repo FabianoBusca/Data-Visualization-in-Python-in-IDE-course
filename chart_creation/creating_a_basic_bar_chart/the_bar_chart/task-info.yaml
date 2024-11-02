@@ -1,5 +1,5 @@
+custom_name: The Bar Chart
 type: edu
-custom_name: Highest Rated PSV Game (2015)
 files:
   - name: task.py
     visible: true
