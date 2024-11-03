@@ -24,6 +24,10 @@ def load_dataset(dataset_path):
 
 
 def create_grouped_bar_chart():
+    """
+    Creates a grouped bar chart showing the number of games released by genre and year.
+    :return: The DataFrame used for the visualization.
+    """
     # Path to the CSV file
     dataset_path = "../../../common/resources/data/dataset.csv"
 

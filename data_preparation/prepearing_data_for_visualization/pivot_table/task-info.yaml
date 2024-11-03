@@ -1,5 +1,5 @@
-custom_name: Pivot Table
 type: edu
+custom_name: Pivot Table
 files:
   - name: task.py
     visible: true

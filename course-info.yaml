@@ -2,7 +2,7 @@ type: marketplace
 title: Data Visualization in Python in IDE
 language: English
 summary: "This course is designed to help you learn how to visualize data in Python\
-  \ using Matplotlib, Seaborn, and Plotly."
+  \ using Matplotlib and Seaborn."
 programming_language: Python
 environment: unittest
 content:

@@ -1,5 +1,5 @@
-custom_name: The Bar Chart
 type: edu
+custom_name: The Bar Chart
 files:
   - name: task.py
     visible: true

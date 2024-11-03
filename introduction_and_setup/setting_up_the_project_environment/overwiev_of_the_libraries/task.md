@@ -7,9 +7,7 @@ Set up the environment for the project by installing the necessary libraries. In
 
 2. **Matplotlib**: A foundational plotting library in Python. It offers a lot of control over plot elements and serves as the base for Seaborn.
 
-3. **Plotly**: A library for creating interactive visualizations. It’s especially useful if we want to make our charts interactive, allowing us to hover over data points, zoom, and more.
-
-## Task Instructions
+## Instructions
 
 1. **Set Up Your Environment**
    - Ensure you are using Python 3.9 or later.
@@ -24,9 +22,6 @@ Set up the environment for the project by installing the necessary libraries. In
 
 3. **Verify Installation**
    - After installing, open `main.py` and run the code to check that Seaborn was installed correctly.
-
-## Next Steps
-Once you have confirmed the libraries are installed, proceed to Lesson 1.2, where we’ll load and explore the dataset.
 
 ---
 

@@ -22,6 +22,10 @@ def load_dataset(dataset_path):
 
 
 def create_pivot_table():
+    """
+    Creates a pivot table with genre and user_count.
+    :return: The pivot table.
+    """
     # Path to the CSV file
     dataset_path = "../../../common/resources/data/dataset.csv"
 

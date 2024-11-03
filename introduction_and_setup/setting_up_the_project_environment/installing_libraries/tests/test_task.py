@@ -14,12 +14,6 @@ class TestCase(unittest.TestCase):
         except ImportError:
             self.fail("matplotlib is not installed")
 
-    def test_ploty(self):
-        try:
-            importlib.import_module("plotly")
-        except ImportError:
-            self.fail("plotly is not installed")
-
     def test_pandas(self):
         try:
             importlib.import_module("pandas")

@@ -1,5 +1,5 @@
-custom_name: Bar Chart Basics
 type: theory
+custom_name: Bar Chart Basics
 files:
   - name: main.py
     visible: true

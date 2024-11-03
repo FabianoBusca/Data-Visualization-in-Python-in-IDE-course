@@ -24,6 +24,10 @@ def load_dataset(dataset_path):
 
 
 def create_bar_chart():
+    """
+    Creates a bar chart showing the average user count by rating.
+    :return: The DataFrame with the average user count by rating.
+    """
     # Path to the CSV file
     dataset_path = "../../../common/resources/data/dataset.csv"
 

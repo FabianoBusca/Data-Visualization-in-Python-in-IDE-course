@@ -1,3 +1,4 @@
+custom_name: Grouped Bar Chart
 type: edu
 files:
   - name: task.py

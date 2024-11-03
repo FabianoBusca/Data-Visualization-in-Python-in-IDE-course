@@ -1,4 +1,4 @@
 custom_name: More Advanced Visualization
 content:
   - seaborn
-  - task1
+  - grouped_bar_chart
